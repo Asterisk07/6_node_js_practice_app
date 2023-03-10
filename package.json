@@ -1,0 +1,19 @@
+{
+  "name": "6_node_js_practice_app",
+  "version": "1.0.0",
+  "description": "My practice app for node js (very very basic)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asterisk07/6_node_js_practice_app.git"
+  },
+  "author": "Ayushmaan Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asterisk07/6_node_js_practice_app/issues"
+  },
+  "homepage": "https://github.com/Asterisk07/6_node_js_practice_app#readme"
+}
