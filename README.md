@@ -1,4 +1,4 @@
-<h1> node_js_practice_app <h1>
+<h1> node_js_practice_app </h1>
 My practice app for node js (very very basic)
 
 <h2> How to run </h2>
