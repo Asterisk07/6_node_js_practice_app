@@ -1,5 +1,5 @@
 <h1> node_js_practice_app </h1>
-My practice app for node js (very very basic)
+My practice app for node js for practicing custom backend
 
 <h2> How to run </h2>
  step 1: download and install node js from <a href='https://nodejs.org/en/download/'> the website </a>  <br>
